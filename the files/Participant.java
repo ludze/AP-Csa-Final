@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class Participant {
-
+//Charlie did this part
     private String name;
         private int grad;
       private int id;
@@ -42,7 +42,7 @@ public class Participant {
     public void setScore(int s) {
         score = s;
     }
-
+//Evan did this method for tostring
     public String toString() {
         return name + " || grade: " + grad + " || id: " + id + " || " + acts + " || " +
                 " score: " + score;
