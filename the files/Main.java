@@ -220,6 +220,7 @@ public class Main {
             }
 
             // 10 report highest score and the top student
+                //charlie did this method report
             else if (choice == 10) {
 
            int total = 0;
